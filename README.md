@@ -65,19 +65,37 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mandeepnarotta&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mandeepnarotta&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mandeepnarotta&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandeepnarotta&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mandeepnarotta&theme=radical&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mandeepnarotta&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
 
 ### 📫 Let's Connect
-<p>
+
+<p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mandeepnarotta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/mandeepnarotta"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -86,20 +104,3 @@
 ---
 
 <p align="center"><b>✨ Keep Building, Keep Learning ✨</b></p>
-
-
-
-<!--
-**narottamandeep2003/narottamandeep2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
