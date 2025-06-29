@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="developer animation"/>
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400" alt="Animated Dev GIF"/>
 </p>
 
 ---
@@ -66,9 +66,12 @@
 ---
 
 ### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mandeepnarotta&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandeepnarotta&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mandeepnarotta&show_icons=true&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mandeepnarotta&layout=compact&theme=radical" />
 </p>
 
 ---
