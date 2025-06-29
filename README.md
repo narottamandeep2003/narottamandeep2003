@@ -1,106 +1,72 @@
 <h1 align="center">Hi 👋, I'm Mandeep Singh</h1>
-<h3 align="center">Aspiring Full Stack Developer | B.Tech Student at Lovely Professional University</h3>
+<h3 align="center">Full Stack Developer | B.Tech CSE Student at Lovely Professional University</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=37BDA6&center=true&vCenter=true&width=435&lines=Passionate+Full-Stack+Developer;Love+Clean+Code+%26+Design;Building+Scalable+Web+Apps;Open+Source+Enthusiast" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400" alt="Animated Dev GIF"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Working Developer" />
 </p>
 
 ---
 
-### 🧑‍🎓 About Me
+## 🧑‍💼 About Me
 
-- 🎓 I'm a **B.Tech CSE student** at **Lovely Professional University**
-- 🔭 Passionate about **Full Stack Web Development**
-- 💡 Interested in **System Design**, **Microservices**, and **DevOps**
-- 🧠 Always curious about how systems work under the hood
-- 📚 Learning never stops!
-
----
-
-### 🛠️ Skills & Technologies
-
-#### 👨‍💻 Programming Languages  
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-#### 🌐 Frontend  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-</p>
-
-#### 🔧 Backend  
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logoColor=white"/>
-</p>
-
-#### 🧰 Tools & Platforms  
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
-#### 🧠 Core CS Concepts  
-<p>
-  <img src="https://img.shields.io/badge/System%20Design-00C853?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OOP-795548?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DBMS-607D8B?style=for-the-badge&logoColor=white"/>
-</p>
+- 🎓 B.Tech Computer Science student at **Lovely Professional University**
+- 💻 Passionate Full Stack Developer
+- 🧠 Interested in **System Design**, **Microservices**, and **Scalable Web Architecture**
+- 🚀 Focused on writing clean, maintainable code
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Tech Stack
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
+
+### 🌐 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
+
+### 🔧 Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
+
+### 🛠 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,docker,vscode,linux" />
+
+### 📚 Computer Science
+<img src="https://img.shields.io/badge/System%20Design-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-795548?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-607D8B?style=for-the-badge"/>
+
+---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mandeepnarotta&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandeepnarotta&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=narottamandeep2003&theme=radical&margin-w=15&row=2&column=3" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-### 🔥 Streak Stats
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=narottamandeep2003&show_icons=true&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narottamandeep2003&layout=compact&theme=radical&hide_border=true" />
+
+---
+
+## 📈 Contributions
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mandeepnarotta&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=narottamandeep2003&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
+## 📫 Connect with Me
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mandeepnarotta&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mandeepnarotta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/mandeepnarotta"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<a href="mailto:narotta2003@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
+<a href="https://www.linkedin.com/in/narottamandeep"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://github.com/narottamandeep2003"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
 
 ---
 
-<p align="center"><b>✨ Keep Building, Keep Learning ✨</b></p>
+<p align="center"><b>✨ Keep Building | Keep Learning | Keep Growing ✨</b></p>
